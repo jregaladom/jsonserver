@@ -7,7 +7,7 @@
   "posts": [
       { "id": 1, "title": "¿Porque adoptar animales?", "body": "pienso que es importante adoptar porque.....", "userId": 1 },
       { "id": 2, "title": "¿Que pienso del calentamiento global?", "body":"Deberiamos de hacer algo con este problema .... ", "userId": 1 },
-      { "id": 2, "title": "¿Como crear mi propia empresa ?", "body":"antes necesitas saber que  .... ", "userId": 2 }
+      { "id": 3, "title": "¿Como crear mi propia empresa ?", "body":"antes necesitas saber que  .... ", "userId": 2 }
     ],
    "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
